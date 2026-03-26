@@ -17,8 +17,8 @@ To write a Python program to define a function that accepts 3 values and returns
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060154
-# Name- Mugilan J
+# Reg.No- 212222060234
+# Name- Senthilkumar K
 def result(a, b, c):
     average = (a + b + c) / 3
     print("average is", average)
